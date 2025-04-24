@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aproduct
+  annotations:
+    github.com/project-slug: gavishtea/aproduct
+spec:
+  type: other
+  lifecycle: unknown
+  owner: IPaaS
