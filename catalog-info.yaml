@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: aproduct
   annotations:
+    backstage.io/techdocs-ref: README.md
     github.com/project-slug: gavishtea/aproduct
 spec:
   type: other
