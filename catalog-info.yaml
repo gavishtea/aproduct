@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: aproduct
   annotations:
-    backstage.io/techdocs-ref: README.md
+    backstage.io/techdocs-ref: url:https://www.mkdocs.org/user-guide/configuration/
     github.com/project-slug: gavishtea/aproduct
 spec:
   type: other
